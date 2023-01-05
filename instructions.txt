@@ -1,0 +1,5 @@
+Insert to create new records into the data base\n
+Delte to remove records from the data base\n In case you are feeling bored, press Recommend to get you something to watch\n
+Hit Create to add your own anime list and table into the database.
+
+
